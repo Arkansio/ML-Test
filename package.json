@@ -1,0 +1,11 @@
+{
+  "name": "ml-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Arkansio/ML-Test.git",
+  "author": "Arkansio <38956983+Arkansio@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.4.0"
+  }
+}
