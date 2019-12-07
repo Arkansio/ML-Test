@@ -6,6 +6,6 @@
   "author": "Arkansio <38956983+Arkansio@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow/tfjs": "^1.4.0"
+    "@tensorflow/tfjs-node": "^1.4.0"
   }
 }
